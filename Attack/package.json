@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "~3.0.6",
+    "i": "^0.3.7",
+    "mineflayer-auto-eat": "^2.3.3",
+    "mineflayer-pathfinder": "^1.9.1",
+    "mineflayer-web-inventory": "^1.6.4",
+    "prismarine-viewer": "^1.22.0",
+    "socket.io": "^0.9.19"
+  }
+}

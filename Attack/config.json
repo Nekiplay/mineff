@@ -1,0 +1,17 @@
+{
+    "mainUsername": "Vazmine",
+    "mainPassword": "125125123123",
+	"host": "mc.mstnw.net",
+	"prismarinePort": 777,
+	"anarhy": 11,
+    "whitelist": ["Vazgen005", "Memetroll320", "Neki_play"],
+    "home": {
+        "x": -3619,
+        "y": 30,
+        "z": -3975
+    },
+    "finder": {
+        "whitelist": ["emerald_ore","diamond_ore","gold_ore"],
+        "radius": 10
+    }
+}
