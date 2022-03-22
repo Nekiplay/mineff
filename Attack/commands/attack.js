@@ -1,11 +1,10 @@
 const fs = require("fs");
 const Vec3 = require("vec3");
-const autoeat = require("mineflayer-auto-eat")
 
 const range = 3;
 
-const delay_min = 850;
-const delay_max = 950;
+const delay_min = 1250;
+const delay_max = 1550;
 
 let food = false;
 let eb = false;
@@ -65,14 +64,25 @@ module.exports = {
 			});
 		});
 		
-		bot.on("physicTick", () => {
-			let entity = bot.nearestEntity()
-			attack(entity);
+		bot.on("physicTick", () => 
+		{
+			let best = null
+    		let bestDistance = Number.MAX_VALUE
+
+    		for (const entity of Object.values(bot.entities)) 
+    		{
+      			const dist = bot.entity.position.distanceSquared(entity.position)
+      			if (dist < bestDistance && entity.type == "mob") 
+      			{
+        			best = entity
+        			bestDistance = dist
+      			}
+    		}
+			attack(best);		
 		});
-		
+
 		bot.on("entityMoved", (entity) => {
 			eat();
-			attack(entity);
 			if (!eb && bot.experience.level >= 30)
 			{
 				eb = true;
@@ -160,18 +170,18 @@ module.exports = {
 			let inventory = bot.inventory
 			if (inventory != null)
 			{
-				for (let i = 9; i < 44; i++) 
+				for (let i = 9; i <= 44; i++) 
 				{
 					let item = inventory.slots[i];
 					if (item != null)
 					{
-						if (item.type == 734) 
-						{
-							bot.tossStack(item)
-						}
-						else if (item.type == 940) 
+						if (item.type == 940) 
 						{
 							bottle_count += item.count;
+						}
+						else if (item.type != 719 && item.type != 764) 
+						{
+							bot.tossStack(item)
 						}
 					}
 				}
@@ -208,9 +218,10 @@ module.exports = {
 					bot.setQuickBarSlot(0)
 					console.log("Ударил: " + entity.name)
 					if (lookAta != null)
-					bot.lookAt(lookAta, true);
-					bot.attack(entity)
-					bot.swingArm("right");
+					{
+						bot.lookAt(lookAta, true);
+					}
+					bot.attack(entity, true)
 					attacks++;
 				}
 			}
@@ -220,6 +231,9 @@ module.exports = {
 				{
 					start = new Date().getTime() + getRandomInt(delay_min, delay_max);
 					if (lookAta != null)
+					{
+						bot.lookAt(lookAta, true);
+					}
 					bot.lookAt(lookAta, true);
 					bot.swingArm("right");
 				}

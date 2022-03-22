@@ -1,6 +1,5 @@
 const fs = require("fs");
 const Vec3 = require("vec3");
-const autoeat = require("mineflayer-auto-eat")
 
 module.exports = {
 	name: "drop",
@@ -9,18 +8,26 @@ module.exports = {
 	
 	
 	async run(bot, args, message) {
+		let bottle_count = 0;
 		let inventory = bot.inventory
-		let item_index = args[0]
-		let item = inventory.slots[item_index];
-		if (item != null)
+		if (inventory != null)
 		{
-			bot.tossStack(item)
-			console.log(item.displayName)
-			bot.chat("/msg " + message.author + " Выкидываю предмет из инвентаря " + item.displayName);
+			for (let i = 9; i < 44; i++) 
+			{
+				let item = inventory.slots[i];
+				if (item != null)
+				{
+					if (item.type == 940) 
+					{
+						bottle_count += item.count;
+					}
+				}
+			}
+			
 		}
-		else
+		if (bottle_count > 0)
 		{
-			bot.chat("/msg " + message.author + " Нету придмета в этом слоте");
+			bot.toss(940, null, bottle_count)
 		}
 	}
 }
