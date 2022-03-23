@@ -1,0 +1,3319 @@
+[
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"pro100tolik\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"20.81\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"333.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §epro100tolik",
+									"§7Стоимость за шт: §e20.81",
+									"§7Общая стоимость: §e333.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 0
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 1
+	},
+	{
+		"type": 196,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"StarPer1104\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"0.86\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"55.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eStarPer1104",
+									"§7Стоимость за шт: §e0.86",
+									"§7Общая стоимость: §e55.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "sugar_cane",
+		"displayName": "Sugar Cane",
+		"stackSize": 64,
+		"slot": 2
+	},
+	{
+		"type": 827,
+		"count": 46,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"SJlouSAdrOT228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2.17\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"100.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eSJlouSAdrOT228",
+									"§7Стоимость за шт: §e2.17",
+									"§7Общая стоимость: §e100.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "bone",
+		"displayName": "Bone",
+		"stackSize": 64,
+		"slot": 3
+	},
+	{
+		"type": 21,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"bTope550\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"0.08\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"5.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §ebTope550",
+									"§7Стоимость за шт: §e0.08",
+									"§7Общая стоимость: §e5.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "cobblestone",
+		"displayName": "Cobblestone",
+		"stackSize": 64,
+		"slot": 4
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 33 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 33 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 5
+	},
+	{
+		"type": 27,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Fartik_\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2.34\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"150.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 32 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eFartik_",
+									"§7Стоимость за шт: §e2.34",
+									"§7Общая стоимость: §e150.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 32 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "dark_oak_planks",
+		"displayName": "Dark Oak Planks",
+		"stackSize": 64,
+		"slot": 6
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"pro100tolik\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"20.81\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"333.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 32 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §epro100tolik",
+									"§7Стоимость за шт: §e20.81",
+									"§7Общая стоимость: §e333.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 32 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 7
+	},
+	{
+		"type": 827,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"SJlouSAdrOT228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"1.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"100.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 32 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eSJlouSAdrOT228",
+									"§7Стоимость за шт: §e1.56",
+									"§7Общая стоимость: §e100.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 32 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "bone",
+		"displayName": "Bone",
+		"stackSize": 64,
+		"slot": 8
+	},
+	{
+		"type": 269,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"GVomit\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2.34\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"150.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 31 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eGVomit",
+									"§7Стоимость за шт: §e2.34",
+									"§7Общая стоимость: §e150.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 31 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "soul_sand",
+		"displayName": "Soul Sand",
+		"stackSize": 64,
+		"slot": 9
+	},
+	{
+		"type": 27,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Fartik_\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2.34\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"150.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 31 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eFartik_",
+									"§7Стоимость за шт: §e2.34",
+									"§7Общая стоимость: §e150.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 31 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "dark_oak_planks",
+		"displayName": "Dark Oak Planks",
+		"stackSize": 64,
+		"slot": 10
+	},
+	{
+		"type": 998,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"blooodray\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"1750.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"1750.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 29 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eblooodray",
+									"§7Стоимость за шт: §e1750.00",
+									"§7Общая стоимость: §e1750.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 29 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "end_crystal",
+		"displayName": "End Crystal",
+		"stackSize": 64,
+		"slot": 11
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 29 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 29 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 12
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 27 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 27 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 13
+	},
+	{
+		"type": 793,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Timon654\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"39.06\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"2500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 27 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eTimon654",
+									"§7Стоимость за шт: §e39.06",
+									"§7Общая стоимость: §e2500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 27 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "slime_ball",
+		"displayName": "Slimeball",
+		"stackSize": 64,
+		"slot": 14
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 27 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 27 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 15
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 16
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 17
+	},
+	{
+		"type": 721,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"3eternitry\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"499.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"499.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §e3eternitry",
+									"§7Стоимость за шт: §e499.00",
+									"§7Общая стоимость: §e499.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				},
+				"mst_date": {
+					"type": "long",
+					"value": [
+						383,
+						935396993
+					]
+				},
+				"mst_uuid": {
+					"type": "string",
+					"value": "876a7562-3021-40e2-b01a-f9e9fb38a13a"
+				},
+				"mst_owner": {
+					"type": "string",
+					"value": "3eternitry"
+				},
+				"Damage": {
+					"type": "int",
+					"value": 0
+				},
+				"Enchantments": {
+					"type": "list",
+					"value": {
+						"type": "compound",
+						"value": [
+							{
+								"id": {
+									"type": "string",
+									"value": "minecraft:efficiency"
+								},
+								"lvl": {
+									"type": "short",
+									"value": 4
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"name": "diamond_pickaxe",
+		"displayName": "Diamond Pickaxe",
+		"stackSize": 1,
+		"slot": 18
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 19
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 20
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 26 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 26 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 21
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"LightSeeker\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"10.56\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"169.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 25 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLightSeeker",
+									"§7Стоимость за шт: §e10.56",
+									"§7Общая стоимость: §e169.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 25 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 22
+	},
+	{
+		"type": 858,
+		"count": 16,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"_Frazzy_\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"9.38\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"150.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 24 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §e_Frazzy_",
+									"§7Стоимость за шт: §e9.38",
+									"§7Общая стоимость: §e150.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 24 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "ender_pearl",
+		"displayName": "Ender Pearl",
+		"stackSize": 16,
+		"slot": 23
+	},
+	{
+		"type": 719,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"4el147\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"2500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 23 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §e4el147",
+									"§7Стоимость за шт: §e2500.00",
+									"§7Общая стоимость: §e2500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 23 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				},
+				"mst_date": {
+					"type": "long",
+					"value": [
+						383,
+						936519350
+					]
+				},
+				"mst_uuid": {
+					"type": "string",
+					"value": "759e3ede-b488-4207-ba3d-ed4c9e0a259e"
+				},
+				"mst_owner": {
+					"type": "string",
+					"value": "4el147"
+				},
+				"Damage": {
+					"type": "int",
+					"value": 0
+				},
+				"Enchantments": {
+					"type": "list",
+					"value": {
+						"type": "compound",
+						"value": [
+							{
+								"id": {
+									"type": "string",
+									"value": "minecraft:sharpness"
+								},
+								"lvl": {
+									"type": "short",
+									"value": 4
+								}
+							},
+							{
+								"id": {
+									"type": "string",
+									"value": "minecraft:unbreaking"
+								},
+								"lvl": {
+									"type": "short",
+									"value": 3
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"name": "diamond_sword",
+		"displayName": "Diamond Sword",
+		"stackSize": 1,
+		"slot": 24
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 23 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 23 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 25
+	},
+	{
+		"type": 793,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Timon654\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"39.06\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"2500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 23 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eTimon654",
+									"§7Стоимость за шт: §e39.06",
+									"§7Общая стоимость: §e2500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 23 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "slime_ball",
+		"displayName": "Slimeball",
+		"stackSize": 64,
+		"slot": 26
+	},
+	{
+		"type": 854,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"TheEmptyEZ\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"7.81\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 23 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eTheEmptyEZ",
+									"§7Стоимость за шт: §e7.81",
+									"§7Общая стоимость: §e500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 23 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "cooked_beef",
+		"displayName": "Steak",
+		"stackSize": 64,
+		"slot": 27
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"mcmstnwnet\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 21 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §emcmstnwnet",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 21 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 28
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 21 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 21 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 29
+	},
+	{
+		"type": 998,
+		"count": 4,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"bnny334\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"2000.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"8000.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 21 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §ebnny334",
+									"§7Стоимость за шт: §e2000.00",
+									"§7Общая стоимость: §e8000.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 21 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "end_crystal",
+		"displayName": "End Crystal",
+		"stackSize": 64,
+		"slot": 30
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 20 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 20 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 31
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"mcmstnwnet\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 20 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §emcmstnwnet",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 20 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 32
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 20 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:01-08.03 22:01\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 20 сек. ",
+									"",
+									"§826.02 22:01-08.03 22:01",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 33
+	},
+	{
+		"type": 681,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Linkwrebt\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"23.44\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"1500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 19 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLinkwrebt",
+									"§7Стоимость за шт: §e23.44",
+									"§7Общая стоимость: §e1500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 19 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "apple",
+		"displayName": "Apple",
+		"stackSize": 64,
+		"slot": 34
+	},
+	{
+		"type": 196,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"ImNotDoingThis\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"0.94\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"60.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 19 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eImNotDoingThis",
+									"§7Стоимость за шт: §e0.94",
+									"§7Общая стоимость: §e60.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 19 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "sugar_cane",
+		"displayName": "Sugar Cane",
+		"stackSize": 64,
+		"slot": 35
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 19 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 19 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 36
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"mcmstnwnet\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 18 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §emcmstnwnet",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 18 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 37
+	},
+	{
+		"type": 681,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Linkwrebt\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"23.44\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"1500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 18 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLinkwrebt",
+									"§7Стоимость за шт: §e23.44",
+									"§7Общая стоимость: §e1500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 18 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "apple",
+		"displayName": "Apple",
+		"stackSize": 64,
+		"slot": 38
+	},
+	{
+		"type": 681,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Linkwrebt\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"23.44\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"1500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 18 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLinkwrebt",
+									"§7Стоимость за шт: §e23.44",
+									"§7Общая стоимость: §e1500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 18 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "apple",
+		"displayName": "Apple",
+		"stackSize": 64,
+		"slot": 39
+	},
+	{
+		"type": 681,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"Linkwrebt\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"23.44\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"1500.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 18 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eLinkwrebt",
+									"§7Стоимость за шт: §e23.44",
+									"§7Общая стоимость: §e1500.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 18 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "apple",
+		"displayName": "Apple",
+		"stackSize": 64,
+		"slot": 40
+	},
+	{
+		"type": 196,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"ImNotDoingThis\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"0.94\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"60.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 17 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §eImNotDoingThis",
+									"§7Стоимость за шт: §e0.94",
+									"§7Общая стоимость: §e60.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 17 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "sugar_cane",
+		"displayName": "Sugar Cane",
+		"stackSize": 64,
+		"slot": 41
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"mcmstnwnet\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 17 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §emcmstnwnet",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 17 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 42
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"mcmstnwnet\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 16 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §emcmstnwnet",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 16 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 43
+	},
+	{
+		"type": 235,
+		"count": 64,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Продавец: \"},{\"color\":\"yellow\",\"text\":\"sawan228\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Стоимость за шт: \"},{\"color\":\"yellow\",\"text\":\"6.25\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Общая стоимость: \"},{\"color\":\"yellow\",\"text\":\"400.00\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"До окончания: \"},{\"color\":\"yellow\",\"text\":\"1 нед. 2 дн. 23 ч. 59 мин. 15 сек. \"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"dark_gray\",\"text\":\"26.02 22:00-08.03 22:00\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы приобрести это.\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ЛКМ чтобы приобрести полностью.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"italic\":true,\"color\":\"gray\",\"text\":\"ПКМ чтобы приобрести один предмет.\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Продавец: §esawan228",
+									"§7Стоимость за шт: §e6.25",
+									"§7Общая стоимость: §e400.00",
+									"§7До окончания: §e1 нед. 2 дн. 23 ч. 59 мин. 15 сек. ",
+									"",
+									"§826.02 22:00-08.03 22:00",
+									"",
+									"§e• §7Нажмите, чтобы приобрести это.",
+									"",
+									"§7§oЛКМ чтобы приобрести полностью.",
+									"§7§oПКМ чтобы приобрести один предмет."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "obsidian",
+		"displayName": "Obsidian",
+		"stackSize": 64,
+		"slot": 44
+	},
+	{
+		"type": 245,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Нажмите для перехода к\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"gray\",\"text\":\"Списку \"},{\"color\":\"gold\",\"text\":\"ваших предметов\"}],\"text\":\"\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Ваши предметы на продаже\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7Ваши предметы на продаже"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Нажмите для перехода к",
+									"§7Списку §6ваших предметов",
+									""
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "chest",
+		"displayName": "Chest",
+		"stackSize": 64,
+		"slot": 45
+	},
+	{
+		"type": 768,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"для покупки и продажи предметов.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Торговая площадка также является отличным\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"способом заработать деньги, продавая\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"фермерские товары, которые могут\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"заинтересовать других игроков.\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Чтобы выставить предмет на продажу,\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"возьмите его в руку и введите\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"yellow\",\"text\":\"/ah sell (Цена) (Количество)\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Справка\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7Справка"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"§7для покупки и продажи предметов.",
+									"",
+									"§7Торговая площадка также является отличным",
+									"§7способом заработать деньги, продавая",
+									"§7фермерские товары, которые могут",
+									"§7заинтересовать других игроков.",
+									"",
+									"§7Чтобы выставить предмет на продажу,",
+									"§7возьмите его в руку и введите",
+									"§e/ah sell (Цена) (Количество)"
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "oak_sign",
+		"displayName": "Oak Sign",
+		"stackSize": 16,
+		"slot": 46
+	},
+	{
+		"type": 431,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7"
+						}
+					}
+				}
+			}
+		},
+		"name": "black_stained_glass_pane",
+		"displayName": "Black Stained Glass Pane",
+		"stackSize": 64,
+		"slot": 47
+	},
+	{
+		"type": 431,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7"
+						}
+					}
+				}
+			}
+		},
+		"name": "black_stained_glass_pane",
+		"displayName": "Black Stained Glass Pane",
+		"stackSize": 64,
+		"slot": 48
+	},
+	{
+		"type": 687,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Нажмите для\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Обновления страницы\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Обновить страницу\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§6Обновить страницу"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Нажмите для",
+									"§6Обновления страницы",
+									""
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "emerald",
+		"displayName": "Emerald",
+		"stackSize": 64,
+		"slot": 49
+	},
+	{
+		"type": 721,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Нажмите для\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Выбора категории лотов\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Выбор категории\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7Выбор категории"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Нажмите для",
+									"§6Выбора категории лотов",
+									""
+								]
+							}
+						}
+					}
+				},
+				"Damage": {
+					"type": "int",
+					"value": 0
+				}
+			}
+		},
+		"name": "diamond_pickaxe",
+		"displayName": "Diamond Pickaxe",
+		"stackSize": 1,
+		"slot": 50
+	},
+	{
+		"type": 951,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Текущий тип:\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Дата (новые в начале)\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Нажмите для\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Переключения режима сортировки\"}],\"text\":\"\"}",
+									"{\"italic\":false,\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gold\",\"text\":\"Изменить тип сортировки\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§6Изменить тип сортировки"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§7Текущий тип:",
+									"§6Дата (новые в начале)",
+									"",
+									"§7Нажмите для",
+									"§6Переключения режима сортировки",
+									""
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "map",
+		"displayName": "Empty Map",
+		"stackSize": 64,
+		"slot": 51
+	},
+	{
+		"type": 1006,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы открыть.\"}],\"text\":\"\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Листнуть назад\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7Листнуть назад"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§e• §7Нажмите, чтобы открыть."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "spectral_arrow",
+		"displayName": "Spectral Arrow",
+		"stackSize": 64,
+		"slot": 52
+	},
+	{
+		"type": 1006,
+		"count": 1,
+		"metadata": 0,
+		"nbt": {
+			"type": "compound",
+			"name": "",
+			"value": {
+				"HideFlags": {
+					"type": "int",
+					"value": 2
+				},
+				"display": {
+					"type": "compound",
+					"value": {
+						"Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"{\"italic\":false,\"text\":\"\"}",
+									"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"yellow\",\"text\":\"• \"},{\"color\":\"gray\",\"text\":\"Нажмите, чтобы открыть.\"}],\"text\":\"\"}],\"text\":\"\"}"
+								]
+							}
+						},
+						"Name": {
+							"type": "string",
+							"value": "{\"italic\":false,\"extra\":[{\"color\":\"gray\",\"text\":\"Листнуть вперед\"}],\"text\":\"\"}"
+						},
+						"ViaVersion|Protocol1_13To1_12_2|Name": {
+							"type": "string",
+							"value": "§7Листнуть вперед"
+						},
+						"ViaVersion|Protocol1_14To1_13_2|Lore": {
+							"type": "list",
+							"value": {
+								"type": "string",
+								"value": [
+									"",
+									"§e• §7Нажмите, чтобы открыть."
+								]
+							}
+						}
+					}
+				}
+			}
+		},
+		"name": "spectral_arrow",
+		"displayName": "Spectral Arrow",
+		"stackSize": 64,
+		"slot": 53
+	},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	{
+		"type": 21,
+		"count": 64,
+		"metadata": 0,
+		"nbt": null,
+		"name": "cobblestone",
+		"displayName": "Cobblestone",
+		"stackSize": 64,
+		"slot": 81
+	},
+	{
+		"type": 21,
+		"count": 64,
+		"metadata": 0,
+		"nbt": null,
+		"name": "cobblestone",
+		"displayName": "Cobblestone",
+		"stackSize": 64,
+		"slot": 82
+	},
+	{
+		"type": 21,
+		"count": 64,
+		"metadata": 0,
+		"nbt": null,
+		"name": "cobblestone",
+		"displayName": "Cobblestone",
+		"stackSize": 64,
+		"slot": 83
+	},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null
+]
