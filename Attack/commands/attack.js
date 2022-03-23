@@ -1,5 +1,6 @@
 const fs = require("fs");
 const Vec3 = require("vec3");
+const Discord = require('discord.js')
 
 const range = 3;
 
@@ -83,11 +84,6 @@ module.exports = {
 
 		bot.on("entityMoved", (entity) => {
 			eat();
-			if (!eb && bot.experience.level >= 30)
-			{
-				eb = true;
-				bot.chat(`/eb`);
-			}
 		});
 		
 		
@@ -105,14 +101,9 @@ module.exports = {
 		}	
 		
 		bot.on("experience", () => {
-			if (bot.experience.level == 0)
+			if (bot.experience.level >= 30)
 			{
-				exptime = new Date().getTime() - start_time
-				start_time = new Date().getTime();
-				if (exptime > max_exptime)
-				{
-					max_exptime = exptime;
-				}
+				bot.chat(`/eb`);
 			}
 		})
 		
@@ -198,18 +189,26 @@ module.exports = {
 			}
 			else if (!food)
 			{
-				food = true;
-				bot.setQuickBarSlot(1)
-				bot.consume()
+				try 
+				{	
+					let inventory = bot.inventory
+					let item = inventory.slots[37];
+					if (item != null)
+					{
+						bot.setQuickBarSlot(1)
+						bot.consume()
+						food = true;
+					}
+				}
+				catch (e)
+				{
+
+				}
 			}
 			
 		}
 		
 		function attack(entity){
-			if (lookAta == null)
-			{
-				lookAta = new Vec3(bot.entity.position.x, bot.entity.position.y + 1.6, bot.entity.position.z - 1)
-			}
 			if (entity != null && entity.type == "mob" && bot.entity.position.distanceTo(entity.position) <= range && !food)
 			{
 				if (start - new Date().getTime() <= 0 && !food)
@@ -217,6 +216,7 @@ module.exports = {
 					start = new Date().getTime() + getRandomInt(delay_min, delay_max);
 					bot.setQuickBarSlot(0)
 					console.log("Ударил: " + entity.name)
+					lookAta = new Vec3(bot.entity.position.x, bot.entity.position.y + 1.6, bot.entity.position.z - 1)
 					if (lookAta != null)
 					{
 						bot.lookAt(lookAta, true);
@@ -230,6 +230,7 @@ module.exports = {
 				if (start - new Date().getTime() <= 0 && !food)
 				{
 					start = new Date().getTime() + getRandomInt(delay_min, delay_max);
+					lookAta = new Vec3(bot.entity.position.x, bot.entity.position.y + 1.6, bot.entity.position.z - 1)
 					if (lookAta != null)
 					{
 						bot.lookAt(lookAta, true);

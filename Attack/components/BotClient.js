@@ -48,6 +48,7 @@ class BotClient {
 		//	keepAlive: false,
 			colorsEnabled: false
 		});
+
 		
 		function writeLog(logtext)
 		{
