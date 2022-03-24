@@ -214,7 +214,7 @@ class DiscordBot {
 					console.log("Уровень: " + bot.experience.level);
 					client.channels.cache
 						.get(channel)
-						.messages.fetch("956569819875004507")
+						.messages.fetch("956007174264463420")
 						.then((msg) => msg.edit({ embeds: [exampleEmbed] })).catch(e => {
 							
 						})
@@ -242,7 +242,7 @@ class DiscordBot {
 					console.log(getBottleCount());
 					client.channels.cache
 						.get(channel)
-						.messages.fetch("956569831031840820")
+						.messages.fetch("956011290256621618")
 						.then((msg) => msg.edit({ embeds: [exampleEmbed] })).catch(e => {
 
 						})
