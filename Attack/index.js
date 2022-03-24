@@ -38,17 +38,13 @@ async function startCommand(bot, name)
 const start = (bot) =>{
 	const pos = bot.entity.position;
 	if(Math.max(pos.x,config.home.x)-Math.min(pos.x,config.home.x)>20 || Math.max(pos.z,config.home.z)-Math.min(pos.z,config.home.z)>20 || Math.max(pos.y,config.home.y)-Math.min(pos.y,config.home.y)>20){
-		console.log("бот в пизде");
+		console.log("Бот в пизде");
 	}else{
 		console.log("Бот находится в доме");
 		bot.chat("Хей, я дома!");
 	}
 
 	startCommand(bot, "attack")
-	startCommand(bot, "discord")
-	startCommand(bot, "discord2")
-	startCommand(bot, "discord3")
-
 	bot.on("messagestr", async (msg) => {
 		const reg = /\[(.*?) -> (.*?)\] (.*)/;
 		const match = msg.match(reg);

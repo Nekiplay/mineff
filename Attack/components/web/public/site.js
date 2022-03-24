@@ -1,63 +1,63 @@
 (function() {
 	
-	var io = window.io
-	var socket = io.connect()
-	var drawInterval = setInterval(draw, 1)
+	let io = window.io
+	let socket = io.connect()
+	let drawInterval = setInterval(draw, 1)
 	
 	
 	// Переменные полученные сокетом
-	var nickname = "";
+	let nickname = "";
 	
-	var health = 0;
-	var food = 0;
+	let health = 0;
+	let food = 0;
 	
-	var money = 0;
+	let money = 0;
 	
-	var level = 0;
-	var points = 0;
-	var progress = 0.0;
+	let level = 0;
+	let points = 0;
+	let progress = 0.0;
 	
-	var bottlexp = 0;
+	let bottlexp = 0;
 	
-	var attacks = 0;
+	let attacks = 0;
 	
 	// Сокеты
-	socket.on('nickname', function(newHealth) {
+	socket.on("nickname", function(newHealth) {
 		nickname = newHealth;
 	});
 	
-	socket.on('attacks', function(newHealth) {
+	socket.on("attacks", function(newHealth) {
 		attacks = newHealth;
 	});
 	
-	socket.on('health', function(newHealth) {
+	socket.on("health", function(newHealth) {
 		health = newHealth;
 	});
 	
-	socket.on('food', function(newFood) {
+	socket.on("food", function(newFood) {
 		food = newFood;
 	});
 	
-	socket.on('level', function(Level) {
+	socket.on("level", function(Level) {
 		level = Level;
 	});
-	socket.on('points', function(Level) {
+	socket.on("points", function(Level) {
 		points = Level;
 	});
-	socket.on('progress', function(Level) {
+	socket.on("progress", function(Level) {
 		progress = Level;
 	});
 	
-	socket.on('money', function(newMoney) {
+	socket.on("money", function(newMoney) {
 		money = newMoney;
 	});
 	
-	socket.on('bottlexp', function(newMoney) {
+	socket.on("bottlexp", function(newMoney) {
 		bottlexp = newMoney;
 	});
 	
-	var white = '#ffffff'
-    , black = '#000000'
+	let white = "#ffffff"
+    , black = "#000000"
     , imgArrow = new Image()
     , imgBlueArrow = new Image()
     , imgRedArrow = new Image()
@@ -84,50 +84,50 @@
 	createLabel("empty", "<b>Actions</b>", true);
 	createTextBox("nickname", "Ваш ник");
 	createButton("withdraw money", "Снять деньги", true, function(){
-		socket.emit('message', "/pay " + document.getElementById('nickname').value + " " + money);
-		alert("Баланс переведен игроку: " + document.getElementById('nickname').value)
+		socket.emit("message", "/pay " + document.getElementById("nickname").value + " " + money);
+		alert("Баланс переведен игроку: " + document.getElementById("nickname").value)
 		return true;
 	});
 	
 	createTextBox("text", "Текст");
 	createButton("textsend", "Отправить сообщение", true, function(){
-		socket.emit('message', document.getElementById('text').value);
+		socket.emit("message", document.getElementById("text").value);
 		return true;
 	});
 	
 	function draw() {
-		var nicknameL = document.getElementById('nickname')
+		let nicknameL = document.getElementById("nickname")
 		nicknameL.innerHTML = "Ник: " + nickname;
 		
-		var HealthL= document.getElementById('health')
+		let HealthL= document.getElementById("health")
 		HealthL.innerHTML = "Здоровье: " + health;
 		
-		var FoodL= document.getElementById('food')
+		let FoodL= document.getElementById("food")
 		FoodL.innerHTML = "Еда: " + food;
 		
-		var MoneyL= document.getElementById('money')
+		let MoneyL= document.getElementById("money")
 		MoneyL.innerHTML = "Баланс: " + money + "$";
 		
-		var AttacksL= document.getElementById('attacks')
+		let AttacksL= document.getElementById("attacks")
 		AttacksL.innerHTML = "Сделано ударов: " + attacks;
 		
-		var LevelL= document.getElementById('level')
+		let LevelL= document.getElementById("level")
 		let progress2 = Math.round(progress, -1);   // 55.6
 		progress2 = Math.round(progress * 1000) / 1000
 		LevelL.innerHTML = "Уровень: " + level + " (" + progress2 + "%)";
 		
-		var LevelPointL= document.getElementById('level_point')
+		let LevelPointL= document.getElementById("level_point")
 		LevelPointL.innerHTML = "Опыт: " + points;
 		
-		var LevelPointL= document.getElementById('bottle')
-		LevelPointL.innerHTML = "Bottle o' Enchanting: " + bottlexp;
+		let bottle = document.getElementById("bottle")
+		bottle.innerHTML = "Bottle o' Enchanting: " + bottlexp;
 
 	}
 	function createTextBox(id, text, newline)
 	{
-		var br = document.createElement("br");
-		var lb = document.createElement("input");
-		lb.style['padding'] = "0px";
+		let br = document.createElement("br");
+		let lb = document.createElement("input");
+		lb.style["padding"] = "0px";
 		lb.setAttribute("id", id);
 		lb.innerHTML = text;
 		document.body.appendChild(lb);
@@ -139,9 +139,9 @@
 	}
 	function createButton(id, text, newline, click)
 	{
-		var br = document.createElement("br");
-		var lb = document.createElement("button");
-		lb.style['padding'] = "0px";
+		let br = document.createElement("br");
+		let lb = document.createElement("button");
+		lb.style["padding"] = "0px";
 		lb.setAttribute("id", id);
 		lb.innerHTML = text;
 		document.body.appendChild(lb);
@@ -153,9 +153,9 @@
 	}
 	function createLabel(id, text, newline)
 	{
-		var br = document.createElement("br");
-		var lb = document.createElement("Label");
-		lb.style['padding'] = "0px";
+		let br = document.createElement("br");
+		let lb = document.createElement("Label");
+		lb.style["padding"] = "0px";
 		lb.setAttribute("id", id);
 		lb.innerHTML = text;
 		document.body.appendChild(lb);

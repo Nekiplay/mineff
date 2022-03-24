@@ -1,10 +1,10 @@
 
-var fs = require('fs');
+var fs = require("fs");
 var currentdate = new Date(); 
 
 class logger
 {
-	function writeLog(logtext)
+	writeLog(logtext)
 	{
 		fs.appendFile("logs/" + "[" + currentdate.toLocaleDateString() + "] " + "log.txt", "[" + new Date().toLocaleTimeString() + "] " + logtext, function (err)
 		{
@@ -13,4 +13,4 @@ class logger
 	}
 }
 
-module.exports = logger 
+module.exports = logger;

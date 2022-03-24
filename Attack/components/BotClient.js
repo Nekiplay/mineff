@@ -2,7 +2,8 @@
 const mineflayer = require("mineflayer");
 const mineflayerViewer = require("prismarine-viewer").mineflayer;
 const { pathfinder, Movements, goals } = require("mineflayer-pathfinder");
-const inventoryViewer = require('mineflayer-web-inventory')
+const inventoryViewer = require('mineflayer-web-inventory');
+const DiscordBot = require("./discord/DiscordBot.js");
 const GoalFollow = goals.GoalFollow;
 const GoalBlock = goals.GoalBlock;
 const GoalNear = goals.GoalNear;
@@ -60,10 +61,6 @@ class BotClient {
 
 		console.log(`[${this.username}] Connecting to ${this.config.host}...`);
 		
-		 let options = {
-			port: 3001,
-		}
-		
 
 		bot.setMaxListeners(200);
 		
@@ -76,8 +73,12 @@ class BotClient {
 		bot.once("login", () => {
 			console.log(`[${this.username}] Connected to ${this.config.host}!`);
 			writeLog("Зашел на сервер с ником: " + bot.username + "\n");
-			inventoryViewer(bot, options)
-			if(this.isMain) mineflayerViewer(bot, { port: 778, firstPerson: false });
+			if(this.isMain) {
+				inventoryViewer(bot, {port: this.config.inventoryPort || 1778});
+				mineflayerViewer(bot, { port: this.config.prismarinePort || 1777, firstPerson: false });
+				this.discordBot = new DiscordBot(bot);
+				this.discordBot.start();
+			}
 			bot.scriptStorage = {};
 			bot.mov = {};
 			bot.mov.isMoving = false;
@@ -181,6 +182,7 @@ class BotClient {
 			writeLog("Кикнуло с сервера, причина: " + reason + "\n");
 			//bot.scriptStorage = {};
 			bot.viewer?.close();
+			if (this.isMain) this.discordBot.destroy();
 			//bot.removeAllListeners();
 			if (reconnect) this.run();
 		});
